@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-digital-grid/static/css/main.2b9f2f94.chunk.css",
+    "main.js": "/react-digital-grid/static/js/main.e3040daf.chunk.js",
+    "main.js.map": "/react-digital-grid/static/js/main.e3040daf.chunk.js.map",
+    "runtime-main.js": "/react-digital-grid/static/js/runtime-main.5235ad43.js",
+    "runtime-main.js.map": "/react-digital-grid/static/js/runtime-main.5235ad43.js.map",
+    "static/js/2.5b247858.chunk.js": "/react-digital-grid/static/js/2.5b247858.chunk.js",
+    "static/js/2.5b247858.chunk.js.map": "/react-digital-grid/static/js/2.5b247858.chunk.js.map",
+    "static/css/3.6fbd91c1.chunk.css": "/react-digital-grid/static/css/3.6fbd91c1.chunk.css",
+    "static/js/3.219c4980.chunk.js": "/react-digital-grid/static/js/3.219c4980.chunk.js",
+    "static/js/3.219c4980.chunk.js.map": "/react-digital-grid/static/js/3.219c4980.chunk.js.map",
+    "static/css/4.6baa02e0.chunk.css": "/react-digital-grid/static/css/4.6baa02e0.chunk.css",
+    "static/js/4.82d1d0a1.chunk.js": "/react-digital-grid/static/js/4.82d1d0a1.chunk.js",
+    "static/js/4.82d1d0a1.chunk.js.map": "/react-digital-grid/static/js/4.82d1d0a1.chunk.js.map",
+    "index.html": "/react-digital-grid/index.html",
+    "precache-manifest.a524920c5e95948efdc927f3ad444768.js": "/react-digital-grid/precache-manifest.a524920c5e95948efdc927f3ad444768.js",
+    "service-worker.js": "/react-digital-grid/service-worker.js",
+    "static/css/3.6fbd91c1.chunk.css.map": "/react-digital-grid/static/css/3.6fbd91c1.chunk.css.map",
+    "static/css/4.6baa02e0.chunk.css.map": "/react-digital-grid/static/css/4.6baa02e0.chunk.css.map",
+    "static/css/main.2b9f2f94.chunk.css.map": "/react-digital-grid/static/css/main.2b9f2f94.chunk.css.map",
+    "static/js/2.5b247858.chunk.js.LICENSE": "/react-digital-grid/static/js/2.5b247858.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5235ad43.js",
+    "static/js/2.5b247858.chunk.js",
+    "static/css/main.2b9f2f94.chunk.css",
+    "static/js/main.e3040daf.chunk.js"
+  ]
+}
