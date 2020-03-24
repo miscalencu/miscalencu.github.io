@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/react-digital-grid/static/css/main.71bbca86.chunk.css",
-    "main.js": "/react-digital-grid/static/js/main.9658f849.chunk.js",
-    "main.js.map": "/react-digital-grid/static/js/main.9658f849.chunk.js.map",
-    "runtime-main.js": "/react-digital-grid/static/js/runtime-main.3cdb35f3.js",
-    "runtime-main.js.map": "/react-digital-grid/static/js/runtime-main.3cdb35f3.js.map",
-    "static/js/2.646ab6d7.chunk.js": "/react-digital-grid/static/js/2.646ab6d7.chunk.js",
-    "static/js/2.646ab6d7.chunk.js.map": "/react-digital-grid/static/js/2.646ab6d7.chunk.js.map",
-    "static/css/3.d6d5d922.chunk.css": "/react-digital-grid/static/css/3.d6d5d922.chunk.css",
-    "static/js/3.cd7f570a.chunk.js": "/react-digital-grid/static/js/3.cd7f570a.chunk.js",
-    "static/js/3.cd7f570a.chunk.js.map": "/react-digital-grid/static/js/3.cd7f570a.chunk.js.map",
-    "static/css/4.b1f54879.chunk.css": "/react-digital-grid/static/css/4.b1f54879.chunk.css",
-    "static/js/4.9a699834.chunk.js": "/react-digital-grid/static/js/4.9a699834.chunk.js",
-    "static/js/4.9a699834.chunk.js.map": "/react-digital-grid/static/js/4.9a699834.chunk.js.map",
+    "main.css": "/react-digital-grid/static/css/main.22ee34d2.chunk.css",
+    "main.js": "/react-digital-grid/static/js/main.1511fb19.chunk.js",
+    "main.js.map": "/react-digital-grid/static/js/main.1511fb19.chunk.js.map",
+    "runtime-main.js": "/react-digital-grid/static/js/runtime-main.39ceb5cd.js",
+    "runtime-main.js.map": "/react-digital-grid/static/js/runtime-main.39ceb5cd.js.map",
+    "static/js/2.f45c1bf1.chunk.js": "/react-digital-grid/static/js/2.f45c1bf1.chunk.js",
+    "static/js/2.f45c1bf1.chunk.js.map": "/react-digital-grid/static/js/2.f45c1bf1.chunk.js.map",
+    "static/css/3.38ac75a4.chunk.css": "/react-digital-grid/static/css/3.38ac75a4.chunk.css",
+    "static/js/3.af85c2d8.chunk.js": "/react-digital-grid/static/js/3.af85c2d8.chunk.js",
+    "static/js/3.af85c2d8.chunk.js.map": "/react-digital-grid/static/js/3.af85c2d8.chunk.js.map",
+    "static/css/4.4c2caf51.chunk.css": "/react-digital-grid/static/css/4.4c2caf51.chunk.css",
+    "static/js/4.90ff70b2.chunk.js": "/react-digital-grid/static/js/4.90ff70b2.chunk.js",
+    "static/js/4.90ff70b2.chunk.js.map": "/react-digital-grid/static/js/4.90ff70b2.chunk.js.map",
     "index.html": "/react-digital-grid/index.html",
-    "precache-manifest.e9ba5097c86a29dafba4ae3feb1054d4.js": "/react-digital-grid/precache-manifest.e9ba5097c86a29dafba4ae3feb1054d4.js",
+    "precache-manifest.0f3f022d31b7d612e212c95f950a45e5.js": "/react-digital-grid/precache-manifest.0f3f022d31b7d612e212c95f950a45e5.js",
     "service-worker.js": "/react-digital-grid/service-worker.js",
-    "static/css/3.d6d5d922.chunk.css.map": "/react-digital-grid/static/css/3.d6d5d922.chunk.css.map",
-    "static/css/4.b1f54879.chunk.css.map": "/react-digital-grid/static/css/4.b1f54879.chunk.css.map",
-    "static/css/main.71bbca86.chunk.css.map": "/react-digital-grid/static/css/main.71bbca86.chunk.css.map",
-    "static/js/2.646ab6d7.chunk.js.LICENSE": "/react-digital-grid/static/js/2.646ab6d7.chunk.js.LICENSE"
+    "static/css/3.38ac75a4.chunk.css.map": "/react-digital-grid/static/css/3.38ac75a4.chunk.css.map",
+    "static/css/4.4c2caf51.chunk.css.map": "/react-digital-grid/static/css/4.4c2caf51.chunk.css.map",
+    "static/css/main.22ee34d2.chunk.css.map": "/react-digital-grid/static/css/main.22ee34d2.chunk.css.map",
+    "static/js/2.f45c1bf1.chunk.js.LICENSE.txt": "/react-digital-grid/static/js/2.f45c1bf1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3cdb35f3.js",
-    "static/js/2.646ab6d7.chunk.js",
-    "static/css/main.71bbca86.chunk.css",
-    "static/js/main.9658f849.chunk.js"
+    "static/js/runtime-main.39ceb5cd.js",
+    "static/js/2.f45c1bf1.chunk.js",
+    "static/css/main.22ee34d2.chunk.css",
+    "static/js/main.1511fb19.chunk.js"
   ]
 }
