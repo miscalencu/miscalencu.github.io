@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-digital-grid/static/css/main.1b6e0772.chunk.css",
-    "main.js": "/react-digital-grid/static/js/main.efedf1ff.chunk.js",
-    "main.js.map": "/react-digital-grid/static/js/main.efedf1ff.chunk.js.map",
+    "main.js": "/react-digital-grid/static/js/main.3ab13758.chunk.js",
+    "main.js.map": "/react-digital-grid/static/js/main.3ab13758.chunk.js.map",
     "runtime-main.js": "/react-digital-grid/static/js/runtime-main.b8ea0680.js",
     "runtime-main.js.map": "/react-digital-grid/static/js/runtime-main.b8ea0680.js.map",
     "static/js/2.a11bfd2a.chunk.js": "/react-digital-grid/static/js/2.a11bfd2a.chunk.js",
@@ -20,7 +20,7 @@
     "static/js/6.ce3813f0.chunk.js": "/react-digital-grid/static/js/6.ce3813f0.chunk.js",
     "static/js/6.ce3813f0.chunk.js.map": "/react-digital-grid/static/js/6.ce3813f0.chunk.js.map",
     "index.html": "/react-digital-grid/index.html",
-    "precache-manifest.391e9ac8783b422d4f7fc8148e5aa23e.js": "/react-digital-grid/precache-manifest.391e9ac8783b422d4f7fc8148e5aa23e.js",
+    "precache-manifest.da2f038c3286bea405ddb6922df2cea6.js": "/react-digital-grid/precache-manifest.da2f038c3286bea405ddb6922df2cea6.js",
     "service-worker.js": "/react-digital-grid/service-worker.js",
     "static/css/3.1efbe5a7.chunk.css.map": "/react-digital-grid/static/css/3.1efbe5a7.chunk.css.map",
     "static/css/4.24de2365.chunk.css.map": "/react-digital-grid/static/css/4.24de2365.chunk.css.map",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.b8ea0680.js",
     "static/js/2.a11bfd2a.chunk.js",
     "static/css/main.1b6e0772.chunk.css",
-    "static/js/main.efedf1ff.chunk.js"
+    "static/js/main.3ab13758.chunk.js"
   ]
 }
